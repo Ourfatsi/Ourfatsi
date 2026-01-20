@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ourfatsi a fictive personnality, an amateur of mathematics and science.
+- 👋 Hi, I’m @Ourfatsi an amateur of mathematics and science.
 - 👀 I’m interested in mathematics in general and in numerical applications
 - 🌱 I continue as a second year sytudent at university.
 - 💞️ I’m looking to collaborate with fellow students in computer science and mathematics in fields concerning Algebra and analysis (2nd year university level)
